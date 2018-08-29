@@ -1,4 +1,0 @@
-#Wed Aug 29 15:56:14 IST 2018
-base.0=C\:\\Users\\keshavav\\Downloads\\restaurant_manager-vivek (1)\\restaurant_manager-vivek\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
-path.0=classes.dex
-renamed.0=classes.dex
