@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 29 16:02:53 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\keshavav\\Downloads\\restaurant_manager-vivek (1)\\restaurant_manager-vivek\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+0.path=classes.dex
+0.set=DEX
+count=1
